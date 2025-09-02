@@ -13,21 +13,28 @@ A powerful desktop application that generates comprehensive project specificatio
 
 ## Installation
 
-### Option 1: Quick Install with PowerShell (Recommended)
+### Option 1: Quick Install with PowerShell (Coming Soon)
 
-Run this one-liner in PowerShell to download and launch Code Spec:
+*Once the first release is published, you'll be able to run this one-liner:*
 
 ```powershell
 irm https://github.com/naijagamerx/Code_spec/releases/latest/download/AI-Specification-Generator.exe -OutFile "$env:TEMP\CodeSpec.exe"; & "$env:TEMP\CodeSpec.exe"
 ```
 
-### Option 2: Manual Download
+### Option 2: Download from Repository (Current)
 
-1. Go to [Releases](https://github.com/naijagamerx/Code_spec/releases)
+1. Go to the [Code_spec repository](https://github.com/naijagamerx/Code_spec)
+2. Click on the `dist` folder
+3. Download `AI-Specification-Generator.exe`
+4. Run the executable directly - no installation required!
+
+### Option 3: Manual Download (After Release)
+
+1. Go to [Releases](https://github.com/naijagamerx/Code_spec/releases) (once available)
 2. Download `AI-Specification-Generator.exe` from the latest release
 3. Run the executable directly - no installation required!
 
-### Option 3: Run from Source
+### Option 4: Run from Source
 
 1. Clone this repository
 2. Install dependencies: `pip install -r requirements.txt`
