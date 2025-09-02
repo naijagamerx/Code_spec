@@ -1,4 +1,4 @@
-# AI Specification Generator
+# Code Spec
 
 A powerful desktop application that generates comprehensive project specifications, requirements, and task lists using AI technology.
 
