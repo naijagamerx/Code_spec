@@ -24,9 +24,8 @@ irm https://github.com/naijagamerx/Code_spec/releases/latest/download/AI-Specifi
 ### Option 2: Download from Repository (Current)
 
 1. Go to the [Code_spec repository](https://github.com/naijagamerx/Code_spec)
-2. Click on the `dist` folder
-3. Download `AI-Specification-Generator.exe`
-4. Run the executable directly - no installation required!
+2. Download `AI-Specification-Generator.exe` directly from the main page
+3. Run the executable directly - no installation required!
 
 ### Option 3: Manual Download (After Release)
 

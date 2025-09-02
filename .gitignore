@@ -43,6 +43,7 @@ output/
 uploads/
 results/
 config.yaml
+dist/
 *.md
 !README.md
 
